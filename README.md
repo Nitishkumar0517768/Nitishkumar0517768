@@ -52,7 +52,7 @@
 ## 📫 Connect With Me  
 
 - 💼 GitHub: https://github.com/Nitishkumar0517768  
-- 📧 Email: your-email@example.com  
+- 📧 Email: nitish.kumar.05cg@gamil.com 
 
 ---
 

@@ -51,8 +51,16 @@
 
 ## 📫 Connect With Me  
 
-- 💼 GitHub: https://github.com/Nitishkumar0517768  
-- 📧 Email: nitish.kumar.05cg@gamil.com 
+<div align="center">
+
+I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-daxin-patel/)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevDaxinPatel)
+[![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devpatel2007jan/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev1822)
+
+</div>
 
 ---
 

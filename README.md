@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nitish%20Kumar&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=300&section=header&text=Nitish%20Kumar&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder" alt="Header" />
 </h1>
 
 <p align="center">

@@ -60,6 +60,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 [![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nitishkumar_05/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitishkumar0517768)
 [![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nitishkumar05cg)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)](https://nitish-portfolio-05.vercel.app/resume.html)
 
 </div>
 
